@@ -1,5 +1,10 @@
 // querySelect all of the elements
-var 
+var startButton = document.querySelector(".startbutton");
+var words = document.querySelector(".large-font word-blanks")
+var win = document.querySelector(".win");
+var lose = document.querySelector(".lose");
+var resetButton = document.querySelector(".reset-button");
+var timer = document.querySelector(".large-font timer-count")
 
 
 
